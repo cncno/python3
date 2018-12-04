@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/GitHub/21_staduy_python/Django_site/.idea/Django_site.iml" filepath="D:/GitHub/21_staduy_python/Django_site/.idea/Django_site.iml" />
+      <module fileurl="file://D:/GitHub/.idea/GitHub.iml" filepath="D:/GitHub/.idea/GitHub.iml" />
+      <module fileurl="file://D:/GitHub/Python3.6/.idea/Python3.6.iml" filepath="D:/GitHub/Python3.6/.idea/Python3.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django-admin.py3.tmp.iml" filepath="$PROJECT_DIR$/.idea/django-admin.py3.tmp.iml" />
+    </modules>
+  </component>
+</project>
